@@ -5,8 +5,8 @@
   "use strict";
 
   /* ---------------- Constants ---------------- */
-  var WA_NUMBER = "420608312438";
-  var PHONE = "+420 608 312 438";
+  var WA_NUMBER = "420774862712";
+  var PHONE = "+420 774 862 712";
 
   /* ---------------- Translations ---------------- */
   var I18N = {
