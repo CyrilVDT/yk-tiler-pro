@@ -1,0 +1,7 @@
+# Raw source photos (working copies live in assets/images)
+photo/
+
+# OS / editor
+Thumbs.db
+.DS_Store
+desktop.ini
